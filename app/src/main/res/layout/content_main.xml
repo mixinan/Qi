@@ -6,7 +6,7 @@
     android:background="@drawable/bg"
     tools:context=".MainActivity" >
 
-    <cc.guoxingnan.wuziqi_studio.WuziqiPanel
+    <cc.guoxingnan.qi.WuziqiPanel
         android:id="@+id/customView"
         android:layout_width="match_parent"
         android:layout_height="match_parent"

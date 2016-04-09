@@ -7,6 +7,7 @@ import android.view.MenuItem;
 
 public class MainActivity extends Activity {
     private WuziqiPanel wuziqiPanel;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
